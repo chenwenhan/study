@@ -56,7 +56,7 @@ int main()
 			{
 				printf("\n");
 			}
-			printf("%4d   ",i);
+			printf("%4d      ",i);
 			gh++;
 		}	
 	}
@@ -68,7 +68,7 @@ int main()
 			{
 					for(i=0;i<yu;i++)
 					{
-						printf("       ");
+						printf("          ");
 						gh++;
 					}
 		
@@ -78,7 +78,7 @@ int main()
 						{
 							printf("\n");
 						}
-						printf("%4d   ",i);
+						printf("%4d      ",i);
 						gh++;
 					}		
 			}
@@ -86,7 +86,7 @@ int main()
 			{
 					for(i=0;i<yu;i++)
 					{
-						printf("       ");
+						printf("          ");
 						gh++;
 					}
 					
@@ -96,7 +96,7 @@ int main()
 						{
 							printf("\n");
 						}
-						printf("%4d   ",i);
+						printf("%4d      ",i);
 						gh++;
 					}		
 			}
@@ -105,7 +105,7 @@ int main()
 		{
 				for(i=0;i<yu;i++)
 				{
-					printf("       ");
+					printf("          ");
 					gh++;
 				}
 				
@@ -115,7 +115,7 @@ int main()
 					{
 						printf("\n");
 					}
-					printf("%4d   ",i);
+					printf("%4d      ",i);
 					gh++;
 				}			
 		}
